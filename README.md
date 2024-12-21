@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Eljovenpatamuslo
-- 🌱 I’m currently learning C, Haskell, HTML/CSS, PHP and a little bit of MySQL
+me gusta C
